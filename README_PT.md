@@ -1,6 +1,6 @@
 <table align="right">
- <tr><td><a href="README.md">English</a></td></tr>
- <tr><td><a href="README_PT.md">Portuguese</a></td></tr>
+ <tr><td><a href="README.md">Ingles</a></td></tr>
+ <tr><td><a href="README_PT.md">Português</a></td></tr>
 </table>
 <br>
 
@@ -13,13 +13,13 @@
 <h1 align='center'><a href="" target="_blank" rel="noopener noreferrer" ><img src="public/images/portfolio.png" alt="Portfolio" width="800" height=""/></a></h1>
 
 <p align="center">
- <a href="#-about">About</a> •
- <a href="#-functionalities">Functionalities</a> •
+ <a href="#-sobre">Sobre</a> •
+ <a href="#-funcionalidades">Funcionalidades</a> •
  <a href="#-ci-cd">CI/CD</a> • 
- <a href="#-languages-and-technologies">Languages and technologies</a> • 
- <a href="#-installation">Installation</a> • 
- <a href="#-screens">Screens</a> • 
- <a href="#license">License</a>
+ <a href="#-linguagem-e-tecnologias">Linguages e tecnologias</a> • 
+ <a href="#-instalacao">Instalacao</a> • 
+ <a href="#-telas">Telas</a> • 
+ <a href="#licenca">Licenca</a>
 </p>
 <br>
 <br>
