@@ -5,7 +5,7 @@ import Loading from '../blocks/loading/Loading';
 import Header from '../blocks/header/Header';
 import Footer from '../blocks/footer/Footer';
 
-import PageTitleContacts from '../blocks/page-title/PageTitleContacts';
+import PageTitleContacts from '../blocks/page-title/PageTitleContact';
 import ContactForm from '../components/form/ContactForm';
 
 const Contacts = () => {
